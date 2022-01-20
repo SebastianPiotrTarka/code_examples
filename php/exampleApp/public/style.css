@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+td{
+    word-break: normal;
+    word-wrap:break-word ;
+    max-width: 100px;
+}
+
+DIV#add-producer-form DIV.panel-footer{
+    text-align: right;
+}
